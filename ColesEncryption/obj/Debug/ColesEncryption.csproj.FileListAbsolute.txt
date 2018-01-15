@@ -1,0 +1,6 @@
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\bin\Debug\ColesEncryption.exe.config
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\bin\Debug\ColesEncryption.exe
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\bin\Debug\ColesEncryption.pdb
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\obj\Debug\ColesEncryption.csprojResolveAssemblyReference.cache
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\obj\Debug\ColesEncryption.exe
+c:\users\cole mangio\documents\visual studio 2015\Projects\ColesEncryption\ColesEncryption\obj\Debug\ColesEncryption.pdb
